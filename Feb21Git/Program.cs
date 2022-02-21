@@ -10,6 +10,7 @@ namespace Feb21Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Everyone");
         }
     }
 }
